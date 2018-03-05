@@ -1,2 +1,5 @@
 # Initial-Codes
-Some initial codes of small programs
+
+大一学习C语言时的一些代码
+
+有平时的网上作业、自己敲的谭浩强课后习题答案、数据结构等。
